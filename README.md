@@ -27,7 +27,7 @@
     </a>
 </p>
 
-> [!WARNING] **Notice:** This is a simple fork with [MattBystrin's premake-ecc](https://github.com/MattBystrin/premake-ecc) module as a git submodule.
+> **Notice:** This is a simple fork with [MattBystrin's premake-ecc](https://github.com/MattBystrin/premake-ecc) module as a git submodule.
 > In order to use it call `git submodule init` or clone directly with the `--recurse-submodules` flag.
 > Then just follow [premake's build instructions](https://premake.github.io/docs/Building-Premake/) (remember to call `premake5 embed` and build again to add the module).
 
